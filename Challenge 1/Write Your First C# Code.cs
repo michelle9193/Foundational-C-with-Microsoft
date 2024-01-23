@@ -15,7 +15,7 @@ Challenge: Write code in the .NET Editor to display two messages
 Console.WriteLine("This is the first line");
 Console.WriteLine("This is the second line");
 
-/* ANSWER
+/* SOLUTION
 Console.WriteLine("This is the first line.");
 
 Console.Write("This is ");
