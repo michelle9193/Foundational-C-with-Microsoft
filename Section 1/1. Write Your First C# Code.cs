@@ -12,13 +12,7 @@ Identify different C# syntax elements like operators, classes, and methods
 Challenge: Write code in the .NET Editor to display two messages
 */
 
-Console.WriteLine("This is the first line");
-Console.WriteLine("This is the second line");
-
-/* SOLUTION
 Console.WriteLine("This is the first line.");
-
 Console.Write("This is ");
-Console.Write("the second ");
-Console.Write("line.");
-*/
+Console.Write("the second");
+Console.Write(" line");
