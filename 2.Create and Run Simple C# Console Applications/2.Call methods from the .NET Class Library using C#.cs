@@ -10,3 +10,7 @@ Use IntelliSense to learn more about a method, its overloaded versions, its retu
 Use Microsoft Learn documentation to research what a method does, its overloaded versions, its return value type, its input parameters and what each parameter represents.
 
 */
+
+Random dice = new Random();
+int roll = dice.Next(1, 7);
+Console.WriteLine(roll);
